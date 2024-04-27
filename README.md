@@ -105,7 +105,7 @@ The most common communication channels that developers use are:
 
 For Our Communcation channel we will be using telegram. 
 
-## Version Control abd Bug Tracker Access
+## Version Control and Bug Tracker Access
 
 Version Control:
 
