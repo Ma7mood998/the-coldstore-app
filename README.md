@@ -104,6 +104,9 @@ The store owner is allowed complete control over the data in the app, they can a
 ### Staff
 The store's staff can view their schedules as well as request and respond to incoming shift trade requests. They can also report a new sale as well as view sales reports.
 
+## Development Guidelines
+
+The development of the Coldstore App is conducted by means of the collaborative approach of opening the project up for contributions from the open-source community. The project owner is the dictator role is played by Mahmood Maher. giving instructions and leading a group if any disagreement occurs.
 
 ## Communication Channel
 In today's global economy, communication is an important aspect of any project. When it comes to open source projects, the success of a project can depend on how effectively the team communicates with members and users.
