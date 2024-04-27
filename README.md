@@ -1,3 +1,14 @@
+<!--
+# -----------------------------------------------------------------------------
+# This file is part of The cold-store app.
+#
+# Copyright (c) 2024 Mahmood Maher
+#
+# Licensed under the MIT License. See the LICENSE file in the project root for
+# full license information.
+# -----------------------------------------------------------------------------
+# This file is used by the build system to adjust CSS and JS output to support the specified browsers below.
+-->
 # Coldstore App
 The cold-store app is an open-source project on GitHub that allows businesses to manage their cold storage facilities. It provides users with an intuitive interface for managing inventory, monitoring storage conditions, and generating reports. 
 
