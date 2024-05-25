@@ -13,7 +13,7 @@
 The cold-store app is an open-source project on GitHub that allows businesses to manage their cold storage facilities. It provides users with an intuitive interface for managing inventory, monitoring storage conditions, and generating reports. 
 
 ### Note:  
-The project is **not open-source**, which means that anyone can contribute to its development, and users are free to modify and customize the code to meet their specific needs.
+The project is **open-source**, which means that anyone can contribute to its development, and users are free to modify and customize the code to meet their specific needs.
 
 ## Development instructions:
 - to run the app use:-  ionic serve
